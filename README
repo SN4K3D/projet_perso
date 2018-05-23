@@ -1,0 +1,17 @@
+Pour le jeu du plus ou moins , lancez le dans un shell .
+
+Pour MARIO SOKOBAN :
+
+appuyer sur 1 pour jouer puis réappuyer sur 1 ou 2 pour choisir le niveau voulu.
+
+pour l'éditeur de niveau appuyer sur 2 puis 1 ou 2 pour choisir le niveau a charger dans l'éditeur.
+Effectuer les modification désiré et pour les sauvegarder appuyer sur la touche s puis 1 ou 2 pour écraser la sauvegarde correspondante.
+
+Dans l'éditeur utiliser le pavé num pour selectionner les bloc voulu et faite un clique gauche pour le poser.
+ faite un clique droit pour supprimé le bloc.
+
+ il ne peut y avoir qu'un seul mario par map , pour changer le départ du niveau veuillez supprimer le 1er mario avant de le replacer.
+
+ Utilisez échap comme retour si vous vous êtes tromper dans l'entré d'un chiffre.
+
+J'ai rajouté mon travail effectuer lors de mon concours a l'école 42 sur le repos
